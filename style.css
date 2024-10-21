@@ -1,0 +1,32 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background: url('https://quntnex.com/wp-content/uploads/2024/05/banner-quntnex.png') no-repeat center center; /* Center the background image */
+    background-size: cover;
+}
+form {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: center;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}

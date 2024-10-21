@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+    background: url("https://www.shutterstock.com/image-vector/sky-sunset-anime-background-clouds-600nw-2413750761.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: blue;
+    background-color: wheat;
+}
+p {
+    color: blueviolet;
+}
+ol {
+    color: darkred;
+}
+h2 {
+    color: green;
+    background-color: wheat;
+}
+h3 {
+    color: rgb(47, 2, 2);
+}

@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+    background: url("https://quntnex.com/wp-content/uploads/2024/05/banner-quntnex.png");
+    background-repeat: no-repeat;
+}
+h1 {
+    color: blue;
+    background-color: wheat;
+}
+p {
+    color: blueviolet;
+}
+ol {
+    color: brown;
+}
+h2 {
+    color: green;
+    background-color: wheat;
+}
+h3 {
+    color: indianred;
+}
